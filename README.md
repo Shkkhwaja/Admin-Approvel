@@ -1,4 +1,4 @@
-# adminapprovel
+# Admin-Approvel
 User Registration Admin Approval
 This project is a user registration admin approval system implemented using PHP and MySQL. It allows an administrator to view and manage user registrations by approving, editing, or deleting user records.
 
