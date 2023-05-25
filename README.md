@@ -46,6 +46,5 @@ test our website :
 
 user-Register-Login = https://newphpproject.000webhostapp.com/register.php .
 
-Admin-Approvel = DM Me .
 
 
