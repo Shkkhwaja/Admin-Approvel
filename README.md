@@ -45,6 +45,7 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 test our website :
 
 user-Register-Login = https://newphpproject.000webhostapp.com/register.php .
+admin-approvel      = https://newphpproject.000webhostapp.com/admin-approvel.php
 
 
 
